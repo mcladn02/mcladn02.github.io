@@ -1,0 +1,12 @@
+h1, h2, h3, p, li, th, td {
+font-family: "Lucida Console";
+}
+h1, .team {
+text-align: center;
+}
+table, th, td {
+border: 1px solid;
+border-collapse: collapse;
+padding: 10px;
+margin: auto;
+}
